@@ -117,4 +117,4 @@ The tool is designed with a **defense-in-depth** approach to reduce detection ri
 ## ❓ FAQ
 
 **Q: Is this detectable in 2026?**  
-A: Detection risk is **non-zero**. Roblox's anti-cheat (Byfron) is active and updated regularly. This tool does **not** guarantee undetectability. We recommend using it on alternate accounts and never during peak hours. Using default settings with
+A: Detection risk is **non-zero**. Roblox's anti-cheat (Byfron) is active and updated regularly. This tool does **not** guarantee undetectability. We recommend using it on alternate accounts and never during peak hours. Using default settings with­
